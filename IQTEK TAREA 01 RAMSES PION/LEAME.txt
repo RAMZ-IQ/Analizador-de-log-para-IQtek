@@ -1,0 +1,24 @@
+Para este proyecto utilize git bash, Notepad++ y OS de windows.
+
+1! Que es este proyecto?
+Esto es un analizador de Logs, su Unico trabajo es buscar lineas de errores en el archivo .log de un servidor y hacer un reporte con estas.
+
+Esto se hace usando comandos simples como echo, grep, whoami, date, para tener un mayor entendimiento de que hacia cada una de estas funciones le pedi ayuda a Claude, despues de varios intentos logre que este script pudiera leer y generar un documento en la misma carpeta, despues le pedi a claude que me enseñara una forma de como poder hacer el código mas organizado en donde me enseño a utilizar (#) para poder escribir sin dañar el script y separar las cosas y dar explicaciones de cada parte como se hacen en casos en donde se trabaja con 2 o mas ingenieros en sistemas para explicar cada parte o para marcar errores menores en un código
+
+2! Como se usa?
+
+Primero el la carpeta que adjunte en mi perfil de GitHub copiamos la dirección de donde esta guardado el script y el .log usando gitbash le das permiso a el analizador,
+
+chmod +x analizar_log_basico.sh 
+
+copia y pega eso, después ejecute el analizador
+
+./analizar_log_basico.sh
+
+después de eso se dará cuenta que en la carpeta apareció un nuevo archivo ábralo y podrá ver con claridad los errores que este produjo, si desea puede abrir el .Log para compararlos y puede abrir el script y me gustaria mucho escuchar el feedback de alguien que sabe mas que yo en el tema.
+
+(también funciona con click derecho y abrir en git, pero no se siente muy profesional)
+
+3! ¿Cómo ayuda esto a AIOps?
+
+Esto ayuda a tener un archivo mas limpio y de menor tamaño para que las IAs duren menos en analizarlo y poder dar los datos de una manera mas rápida y detallada

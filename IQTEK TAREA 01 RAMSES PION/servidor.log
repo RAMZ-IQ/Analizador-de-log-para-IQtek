@@ -1,0 +1,40 @@
+INFO: Servidor iniciado correctamente en el puerto 8080
+INFO: Usuario RAMZ inició sesión
+INFO: Pago procesado para el pedido #4521
+ERROR: Tarjeta rechazada para el pedido #4522 
+INFO: Usuario maria_gomez inició sesión
+CRITICAL: Fallo de conexión con la base de datos principal
+ERROR: Tiempo de espera agotado al conectar con el servicio de pagos
+INFO: Servidor al 45% de capacidad
+ERROR: No se pudo escribir en el disco - espacio insuficiente
+CRITICAL: El servicio de autenticación dejó de responder
+INFO: Usuario Rafael castillo inició sesión
+INFO: Pago procesado para el pedido #4523
+INFO: Copia de seguridad automática completada
+ERROR: No se pudo enviar el correo de confirmación al usuario
+INFO: Usuario Carlitos123 cerró sesión
+INFO: Servidor al 52% de capacidad
+CRITICAL: Memoria RAM al 98% (muy cara para mejorar) - riesgo de caída del sistema
+ERROR: Conexión rechazada por el firewall en el puerto 443
+INFO: Nuevo usuario registrado: Juan
+INFO: Pago procesado para el pedido #4524
+INFO: Caché limpiada correctamente
+ERROR: Tarjeta rechazada para el pedido #4525
+INFO: Usuario Marco cerró sesión
+CRITICAL: El servicio de facturación dejó de responder
+INFO: Servidor al 61% de capacidad
+ERROR: Tiempo de espera agotado al conectar con el servicio de inventario
+INFO: Usuario laura_fernandez inició sesión
+INFO: Pago procesado para el pedido #4526
+INFO: Actualización de sistema completada sin reinicio
+ERROR: No se pudo cargar la imagen del producto #892
+CRITICAL: Pérdida de conexión con el servidor secundario
+INFO: Servidor al 38% de capacidad
+INFO: Usuario pedro_ramirez cerró sesión
+ERROR: Base de datos rechazó la consulta por timeout
+INFO: Pago procesado para el pedido #4527
+INFO: Nuevo usuario registrado: andres_torres
+CRITICAL: Disco(4TB) duro al 95% de uso - espacio crítico
+ERROR: Tarjeta rechazada para el pedido #4528
+INFO: Servidor al 47% de capacidad
+INFO: Usuario andres_torres inició sesión
