@@ -9,11 +9,11 @@ Esto se hace usando comandos simples como echo, grep, whoami, date, para tener u
 
 Primero el la carpeta que adjunte en mi perfil de GitHub copiamos la dirección de donde esta guardado el script y el .log usando gitbash le das permiso a el analizador,
 
-chmod +x analizar_log_basico.sh 
+chmod +x analizar_log.sh 
 
 copia y pega eso, después ejecute el analizador
 
-./analizar_log_basico.sh
+./analizar_log.sh
 
 después de eso se dará cuenta que en la carpeta apareció un nuevo archivo ábralo y podrá ver con claridad los errores que este produjo, si desea puede abrir el .Log para compararlos y puede abrir el script y me gustaria mucho escuchar el feedback de alguien que sabe mas que yo en el tema.
 
