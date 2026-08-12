@@ -10,7 +10,7 @@ echo "Reporte generado por: $(whoami)" > "$REPORTE"
 echo "Fecha del reporte: $(date)" >> "$REPORTE"
 echo "" >> "$REPORTE"
 
-# Buscamos las líneas con ERROR y CRITICAL y las guardamos en el reporte
+# Esto busca las líneas con ERROR y CRITICAL y las guarda en el reporte
 grep -E "ERROR:|CRITICAL:" "$ARCHIVO_LOG" >> "$REPORTE"
 
 echo "reporte generado abre $REPORTE"
